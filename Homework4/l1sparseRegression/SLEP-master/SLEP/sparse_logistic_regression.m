@@ -46,7 +46,8 @@ end
 
 plot(par, auct);
 xlabel("par value");
-ylabel("
+ylabel("Area under the curve");
+title("PAR vs AUC");
 
 
 
